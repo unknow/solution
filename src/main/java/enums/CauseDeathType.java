@@ -1,6 +1,6 @@
 package enums;
 
-public enum CauseDeath {
+public enum CauseDeathType {
 
 	MOD_UNKNOWN,
 	MOD_SHOTGUN,
