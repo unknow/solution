@@ -11,6 +11,8 @@ import enums.ActionType;
 
 public class ParserSolution {
 
+	/** teste */
+
 	public static void main( String[] args ) throws IOException {
 		InputStream gameLogger = FindActions.class.getResourceAsStream( "/games.log" );
 		byte[] bytes = new byte[gameLogger.available()];
